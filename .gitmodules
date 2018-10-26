@@ -1,3 +1,15 @@
 [submodule "business-analytics"]
 	path = business-analytics
 	url = https://github.com/MaastrichtU-IDS/business-analytics.git
+[submodule "crowdsourcing-workshop"]
+	path = crowdsourcing-workshop
+	url = https://github.com/MaastrichtU-IDS/crowdsourcing-workshop.git
+[submodule "ontologies-workshop"]
+	path = ontologies-workshop
+	url = https://github.com/MaastrichtU-IDS/ontologies-workshop.git
+[submodule "machine-learning-workshop"]
+	path = machine-learning-workshop
+	url = https://github.com/MaastrichtU-IDS/machine-learning-workshop.git
+[submodule "docker-workshop"]
+	path = docker-workshop
+	url = https://github.com/MaastrichtU-IDS/docker-workshop.git
