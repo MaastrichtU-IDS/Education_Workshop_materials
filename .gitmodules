@@ -1,0 +1,3 @@
+[submodule "business-analytics"]
+	path = business-analytics
+	url = https://github.com/MaastrichtU-IDS/business-analytics.git
